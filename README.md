@@ -21,3 +21,6 @@ Python (Flask)
 JWT Authentication
 MongoDB (for backend storage)
 FHE Encryption (for secure voting)
+
+# Basic Structure
+![FHEvoting](https://github.com/user-attachments/assets/c424be29-d598-4ee2-9c8b-96d943a917a8)
